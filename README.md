@@ -2,6 +2,8 @@
 
 SPFx 1.20 React web part for hosting a searchable A-Z client directory in SharePoint Online.
 
+<img width="1184" height="582" alt="image" src="https://github.com/user-attachments/assets/ab41ab97-e0c7-42a5-82c4-5b640de948ff" />
+
 ## Features
 
 - Loads client records from a configurable SharePoint list.
