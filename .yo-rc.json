@@ -1,0 +1,25 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "whichFolder": "subdir",
+    "solutionName": "client-az-directory",
+    "environment": "spo",
+    "packageManager": "npm",
+    "componentType": "webpart",
+    "template": "react",
+    "componentName": "ClientAzDirectory",
+    "componentDescription": "Searchable A-Z client directory",
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "client-az-directory",
+    "libraryId": "963acf47-816c-486a-bcd6-b12804386194",
+    "solutionShortDescription": "client-az-directory description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  }
+}

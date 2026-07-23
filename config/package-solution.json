@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "client-az-directory-client-side-solution",
+    "id": "963acf47-816c-486a-bcd6-b12804386194",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "client-az-directory description"
+      },
+      "longDescription": {
+        "default": "client-az-directory description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "client-az-directory Feature",
+        "description": "The feature that activates elements of the client-az-directory solution.",
+        "id": "f29127bf-b6a1-406d-a989-44375f404bed",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/client-az-directory.sppkg"
+  }
+}
